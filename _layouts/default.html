@@ -68,13 +68,21 @@ ga('send', 'pageview');
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
+                <a class="nav-link" href="{{ site.baseurl }}/index.html">Home</a>
                 </li>
 
                 <li class="nav-item">
-                <a class="nav-link" href="https://agdal1125.github.io/about">About</a>
+                <a class="nav-link" href="https://agdal1125.github.io/about">About Me</a>
                 </li>
 
+                <li class="nav-item">
+                <a class="nav-link" href="{{site.baseurl}}/categories#Reviews">Reviews</a>
+                </li>
+
+                <li class="nav-item">
+                <a class="nav-link" href="{{site.baseurl}}/categories#Essays">Essays</a>
+                </li>
+                
 
                 {% include search-lunr.html %}
 
