@@ -6,22 +6,19 @@ License: https://www.wowthemes.net/freebies-license/
 
 @font-face {
 font-family: "NEXON Lv2 Gothic Light";
-src: url("./images/NEXON_Lv2_Gothic_Light.eot");
-src: url("./images/NEXON_Lv2_Gothic_Light.woff");
-src: url('./images/NEXON_Lv2_Gothic_Light?#iefix') format('embedded-opentype'), }
+src: url("../fonts/NEXON\ Lv2\ Gothic\ Light.eot");
+src: url("../fonts/NEXON\ Lv2\ Gothic\ Light.woff");
 }
 
 @font-face { 
 font-family: "NEXON Lv2 Gothic";
-src: url("./images/NEXON_Lv2_Gothic.eot");
-src: url("./images/NEXON_Lv2_Gothic.woff");
-src: url('./images/NEXON_Lv2_Gothic?#iefix') format('embedded-opentype'), }
+src: url("../fonts/NEXON\ Lv2\ Gothic.eot");
+src: url("../fonts/NEXON\ Lv2\ Gothic.woff");}
 
 @font-face { 
 font-family: "NEXON Lv2 Gothic Bold";
-src: url("./images/NEXON_Lv2_Gothic_Bold.eot");
-src: url("./images/NEXON_Lv2_Gothic_Bold.woff");
-src: url('./images/NEXON_Lv2_Gothic_Bold?#iefix') format('embedded-opentype'), }
+src: url("../fonts/NEXON\ Lv2\ Gothic\ Bold.eot");
+src: url("../fonts/NEXON\ Lv2\ Gothic\ Bold.woff"); }
 }
 
 @media screen and (min-width:1500px) {
@@ -706,7 +703,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: NEXON Lv2 Gothic;
+    font-family: "NEXON Lv2 Gothic";
 }
 
 .article-post .h1,
