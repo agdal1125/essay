@@ -1,13 +1,11 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: nuekeaj
+title: Reviews & Essays
+description: Life, Movies, Books, Thoughts
 tags:
+
   - blog
-  - template
-  - jekyll
-  - theme
+  - essay
   - netlify
 show_hero: true
 menu:
@@ -19,18 +17,14 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+email: agdal1125@gmail.com
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: agdal1125
+instagram_username: nuekeaj
+linkedin_username: nowgeun
 
 
 # Posts Settings
