@@ -323,7 +323,7 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: "NEXON Lv2 Gothic";
+    font-family: Righteous;
 }
 
 .mainheading h1.posttitle {
@@ -729,7 +729,7 @@ h6 {
 }
 
 .layout-page .article-post {
-    font-family: "NEXON Lv2 Gothic";
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";;
     font-size: 1rem;
 }
 
