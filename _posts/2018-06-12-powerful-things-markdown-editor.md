@@ -91,11 +91,15 @@ printf("Hello World");
 
 ![walking]({{ site.baseurl }}/assets/images/8.jpg)
 
-## Reference lists
+## 안녕
 
-The quick brown jumped over the lazy.
+잘지내니
 
-Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.
+귀엽던 니 얼굴은 예전과 같은지?
+
+조금 늦은안부
+
+
 
 ## Full HTML
 
