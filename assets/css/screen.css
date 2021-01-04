@@ -3,6 +3,27 @@ Template Name: Mediumish
 Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
 License: https://www.wowthemes.net/freebies-license/ 
 */
+
+@font-face {
+font-family: "NEXON Lv2 Gothic Light";
+src: url("./images/NEXON_Lv2_Gothic_Light.eot");
+src: url("./images/NEXON_Lv2_Gothic_Light.woff");
+src: url('./images/NEXON_Lv2_Gothic_Light?#iefix') format('embedded-opentype'), }
+}
+
+@font-face { 
+font-family: "NEXON Lv2 Gothic";
+src: url("./images/NEXON_Lv2_Gothic.eot");
+src: url("./images/NEXON_Lv2_Gothic.woff");
+src: url('./images/NEXON_Lv2_Gothic?#iefix') format('embedded-opentype'), }
+
+@font-face { 
+font-family: "NEXON Lv2 Gothic Bold";
+src: url("./images/NEXON_Lv2_Gothic_Bold.eot");
+src: url("./images/NEXON_Lv2_Gothic_Bold.woff");
+src: url('./images/NEXON_Lv2_Gothic_Bold?#iefix') format('embedded-opentype'), }
+}
+
 @media screen and (min-width:1500px) {
     html { font-size:18px; } /* Increase the font size on higher resolutions */
     .container {max-width:80%;}
@@ -305,7 +326,7 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: Righteous;
+    font-family: "NEXON Lv2 Gothic";
 }
 
 .mainheading h1.posttitle {
@@ -330,7 +351,7 @@ span.post-read-more a:hover {
 }
 
 .article-post {
-    font-family: Merriweather;
+    font-family: "NEXON Lv2 Gothic";
     font-size: 1.1rem;
     line-height: 1.84;
     color: rgba(0, 0, 0, .8);
@@ -685,7 +706,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: NEXON Lv2 Gothic;
 }
 
 .article-post .h1,
@@ -711,7 +732,7 @@ h6 {
 }
 
 .layout-page .article-post {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-family: "NEXON Lv2 Gothic";
     font-size: 1rem;
 }
 
