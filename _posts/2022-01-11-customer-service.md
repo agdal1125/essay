@@ -1,31 +1,53 @@
 ---
 layout: post
-title:  "Inception Movie"
-author: john
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+title:  "달콤한 인생"
+author: nuekeaj
+categories: [ Essay ]
+image: assets/images/bittersweet.jpg
+description: "움직이는 것은 네 마음뿐이다"
 featured: true
-hidden: true
 rating: 4.5
 ---
 
-Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
+>  넌 나에게 모욕감을 줬어
 
-#### How to use?
+![moyokgam]({{ site.baseurl }}/assets/images/모욕감.gif)
 
-It's actually really simple! Add the rating in your YAML front matter. It also supports halfs:
+영화를 보지 않았어도 꾸준하게 인터넷에서 유행한 대사라 낯설게 느껴지는 사람은 없을 것이다. 그리고 난 올해 뜬금없이 이 대사가 나온 맥락이 궁금해져서 영화를 찾아보게 됐다. 영화의 제목은 "달콤한 인생"이었는데, 영어 제목은 "Bittersweet Life" 여서 번역이 잘못된 줄 알았다. 하지만, 다 본 뒤에는 영어 제목이 더 잘 어울린다는 것을 깨달았다.
 
-```html
----
-layout: post
-title:  "Inception Movie"
-author: john
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Actors, directing and more."
-rating: 4.5
----
-```
+<br>
+
+#### (!!스포주의!!)
+
+<br>
+
+<br>
+
+선우(이병헌)는 조직 보스 신임을 받는 강사장(김영철)의 오른팔이다. 하지만, 한 순간의 흔들림으로 인한 선택으로 나락으로 떨어지게 되고, 자신이 쌓아온 모든 것을 잃게 된다. 선우의 "달콤한" 인생을 보여주는 초콜릿 케이크와 각설탕, 흔들리는 선우의 마음을 바람에 흔들리는 희수(신민아)의 머릿결로 표현한 것과 같이, 영화 속에 가득한 메타포는 내게 보물찾기처럼 느껴졌다. 
+
+영화의 시작에 나오는 내레이션은 시놉시스를 관통하는 주제다.
+
+> "어느 맑은 봄날, 바람에 이리저리 휘날리는 나뭇가지를 바라보며 제자가 물었다.
+>
+> 스승님, 저것은 나뭇가지가 움직이는 겁니까, 바람이 움직이는 겁니까?
+>
+> 스승은 제자가 가르키는 곳은 보지도 않은 채, 웃으며 말했다.
+>
+> 무릇, 움직이는 것은 나뭇가지도 아니고, 바람도 아니며, 네 마음뿐이다."
+
+거울에 비친 자신의 모습을 즐기는 나르시스트적인 면모를 가진 선우는 자기가 흔들렸다는 사실을 인정하지 못했다. "알아서 처리해" 라는 강사장의 말을 왜곡하여 그릇된 선택에 대한 자기 합리화를 했다. 강사장은 선우에게 한 번 더 기회를 주고 싶은 마음에 흔들려 그의 목숨을 살려 후환을 남겼다. 
+
+우여곡절 끝에 강사장과 다시 재회하게 된 선우는 울분을 토하며 자신을 팽한 이유를 묻는다. 유리에 비친 자신의 모습을 본 선우는, 이내 흔들렸다는 사실을 인정하게 되고 자문자답을 완성한다. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6mh9uVZ59TQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+선우는 죽기전에 나지막하게 속삭인다.
+
+> "너무 가혹하다".
+
+자기가 흔들렸다는 것을  인정하고, 그에 대한 대가가 너무 가혹하다는 것을 얘기하는 부분이다.
+
+"달콤한 인생"의 줄거리는 간단하다. 하지만 줄거리가 간단하여 영화 곳곳에 배치된 미장셴을 보며 감상을 할 수 있었고, 내레이션에서 밝혀진 주제를 계속 상기시키며 완벽한 기승전결 구조를 만들어낸다.
+
+최근들어 가장 재밌게 본 느와르 영화였다. 
+
