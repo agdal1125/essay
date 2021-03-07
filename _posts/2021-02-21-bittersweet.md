@@ -2,7 +2,7 @@
 layout: post
 title:  "달콤한 인생"
 author: nuekeaj
-categories: [ Essay ]
+categories: [Review, Movie]
 image: assets/images/bittersweet.jpg
 description: "움직이는 것은 네 마음뿐이다"
 featured: true
