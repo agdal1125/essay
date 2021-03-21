@@ -2,7 +2,7 @@
 layout: post
 title:  "비열한 거리"
 author: nuekeaj
-categories: [Essay, Book]
+categories: [Movie, Review]
 image: assets/images/dirty_carnival.jpg
 featured: true
 rating: 4.5
