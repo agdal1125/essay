@@ -4,7 +4,6 @@ title: "비열한 거리"
 author: nuekeaj
 categories: [Movie, Review]
 image: assets/images/dirty_carnival.jpg
-featured: true
 rating: 4.5
 ---
 
