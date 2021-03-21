@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "비열한 거리"
+title: "비열한 거리"
 author: nuekeaj
 categories: [Movie, Review]
 image: assets/images/dirty_carnival.jpg

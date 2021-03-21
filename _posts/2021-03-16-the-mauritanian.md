@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "모리타니안"
+title: "모리타니안"
 author: nuekeaj
 categories: [Review, Movie]
-image:"https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/movie_92445_1613452340.jpg"
+image: assets/images/mauritanian.jpg
 rating: 4.5
 featured: true
 ---
