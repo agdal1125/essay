@@ -3,7 +3,7 @@ layout: post
 title: "내 인생 문제 해결하기 (1/2)"
 author: nuekeaj
 categories: [Essay, Blog]
-image: assets/images/confused.jpg
+image: assets/images/confused.jpeg
 featured: true
 
 ---
