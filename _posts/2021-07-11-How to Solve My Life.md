@@ -2,8 +2,8 @@
 layout: post
 title: "내 인생 문제 해결하기 (1/2)"
 author: nuekeaj
-categories: [Essay, Blog, ]
-image: assets/images/그로스해킹.png
+categories: [Essay, Blog]
+image: assets/images/confused.jpg
 featured: true
 
 ---
