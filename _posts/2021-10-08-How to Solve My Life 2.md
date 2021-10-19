@@ -3,7 +3,7 @@ layout: post
 title: "내 인생 문제 해결하기 (2/2)"
 author: nuekeaj
 categories: [Essay, Blog]
-image: assets/images/fighting.jpeg
+image: assets/images/fighting.jpg
 featured: true
 
 ---
@@ -147,17 +147,13 @@ df.to_csv("data_analyst_wanted_job_description.csv")
 
 대충 데이터 테이블은 이렇게 생겼다:
 
-<img src="assets/images/wanted_job.jpg">
+<img src="../assets/images/wanted_job.jpg">
 
 대강 EDA를 해봤는데 Data Analyst의 수요는 정말 많은 것으로 보인다.
 
 평균적으로 회사당 2~3개의 포지션을 채용하고 있으며, 총 131개의 회사가 Wanted에 공고를 등록했다. 그리고 쿠팡이 16개 정도로 현재 가장 많은 데이터 분석 채용 공고를 올렸다. 
 
-자세한 건 
-
-[PDF]: https://agdal1125.github.io/reviews/assets/doc/jobdescription.pdf
-
- 참고
+자세한 건  [PDF]( https://agdal1125.github.io/reviews/assets/doc/jobdescription.pdf) 참고.
 
 <br>
 
