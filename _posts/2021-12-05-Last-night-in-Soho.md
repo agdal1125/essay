@@ -5,7 +5,7 @@ author: nuekeaj
 categories: [Movie, Review]
 image: assets/images/lastnightinsoho.jpg
 featured: true
-ratings: 3.5
+rating: 3.5
 
 ---
 
